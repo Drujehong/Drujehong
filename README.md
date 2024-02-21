@@ -10,7 +10,7 @@ Upgrading my toolkit: ️
 
 Currently exploring the world of web development with JavaScript .
 Building a full-stack web development project, stay tuned!
-Next stop: Game development! ️✨ (can't wait!)
+Also have a big interest in game development and pushing myself to learn GODOT from scratch.
 
 <!--
 **Drujehong/Drujehong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
